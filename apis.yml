@@ -1,4 +1,6 @@
 aid: hess
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/hess/refs/heads/main/apis.yml
 modified: '2026-04-28'
