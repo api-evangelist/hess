@@ -31,6 +31,16 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: Parent Company
+    url: https://www.chevron.com
+  - type: AcquisitionAnnouncement
+    url: https://www.chevron.com/newsroom/2025/q3/chevron-completes-acquisition-of-hess-corporation-creating-a-premier-energy-company
+  - type: Newsroom
+    url: https://www.hess.com/newsroom
+  - type: Investors
+    url: https://www.hess.com/investors
+  - type: Sustainability
+    url: https://www.hess.com/sustainability
   - type: DomainSecurity
     url: security/hess-domain-security.yml
   - type: LinkedIn
